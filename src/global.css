@@ -1,0 +1,38 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2a2a2a;
+}
+
+main {
+  padding: 0 2rem 2rem 2rem;
+  width: 50%;
+  margin: 2rem auto;
+}
+
+.form-control {
+  width: 100%;
+  height: 1.5rem;
+  margin: 10px 0;
+  padding: 5px 10px;
+}
+
+main, .form-control, .btn, .list-group-item {
+  border: 1px solid #c0bcbc;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #3073ef;
+  color: #fff;
+  padding: 8px 10px;
+  margin-top: 1rem;
+}
+
+.list-group-item {
+  list-style: none;
+  padding: 5px 10px;
+}
+
+.list-group {
+  padding: 0;
+}
